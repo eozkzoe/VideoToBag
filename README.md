@@ -2,7 +2,7 @@
 
 ROS package to generate a rosbag from a standard video format. The default topic is `/camera/image_raw`, but you can change it to anything you like.
 
-Tested in ROS Noetic.
+Tested in ROS Noetic and Ubuntu 20.04
 
 ## Installation
 
